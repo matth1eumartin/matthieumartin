@@ -39,8 +39,8 @@ function App() {
 
       <div class = "pageIntro">
         <p id = 'intro'>Hi! My name is <br></br><span id='Name'>Matthieu</span></p>
-        <img src={me} id='stickMan' width ="200" height="200"></img>
-        <img src={downarrow} id='downarrow' width="30" height="40"></img>
+        <img src={me} id='stickMan' alt='little doodle i made' width ="200" height="200"></img>
+        <img src={downarrow} id='downarrow' alt='down arrow to indicate where to scroll' width="30" height="40"></img>
       </div>
 
       <p id = 'typing-text'>I am <span ref = {el}></span></p>
