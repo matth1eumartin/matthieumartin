@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/matthieumartin/static/css/main.b477f0c6.chunk.css",
+    "main.css": "/matthieumartin/static/css/main.1fa024ee.chunk.css",
     "main.js": "/matthieumartin/static/js/main.f536073d.chunk.js",
     "main.js.map": "/matthieumartin/static/js/main.f536073d.chunk.js.map",
     "runtime-main.js": "/matthieumartin/static/js/runtime-main.b2f98980.js",
@@ -8,7 +8,7 @@
     "static/js/2.08fe829b.chunk.js": "/matthieumartin/static/js/2.08fe829b.chunk.js",
     "static/js/2.08fe829b.chunk.js.map": "/matthieumartin/static/js/2.08fe829b.chunk.js.map",
     "index.html": "/matthieumartin/index.html",
-    "static/css/main.b477f0c6.chunk.css.map": "/matthieumartin/static/css/main.b477f0c6.chunk.css.map",
+    "static/css/main.1fa024ee.chunk.css.map": "/matthieumartin/static/css/main.1fa024ee.chunk.css.map",
     "static/js/2.08fe829b.chunk.js.LICENSE.txt": "/matthieumartin/static/js/2.08fe829b.chunk.js.LICENSE.txt",
     "static/media/aboutme.df329fc2.png": "/matthieumartin/static/media/aboutme.df329fc2.png",
     "static/media/achievements.a1a9b23d.png": "/matthieumartin/static/media/achievements.a1a9b23d.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2f98980.js",
     "static/js/2.08fe829b.chunk.js",
-    "static/css/main.b477f0c6.chunk.css",
+    "static/css/main.1fa024ee.chunk.css",
     "static/js/main.f536073d.chunk.js"
   ]
 }
