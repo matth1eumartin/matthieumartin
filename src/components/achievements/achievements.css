@@ -1,0 +1,41 @@
+.ac {
+    height: 120vh;
+    display: flex;
+    align-items: center;
+}
+
+.ac-left {
+    flex:2;
+    padding:15vh;
+}
+
+.ac-right {
+    flex:2;
+    padding:20vh;
+}
+
+.ac-title {
+    margin-top: 20px;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+.ac-card {
+    width:120%;
+    height:100%;
+    border-radius: 30;
+}
+
+.ac-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.ac-skills {
+    margin-top:5vh;
+}
+
+.awardAgency {
+    font-weight:800;
+}
