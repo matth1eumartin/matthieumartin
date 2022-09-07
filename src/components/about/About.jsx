@@ -16,7 +16,7 @@ const About = () => {
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
                 <p className="a-desc-1">
-                    <br></br>My skills mostly lie with Python, the language I am most comfortable with, 
+                    <br></br>I'm most used to Python, 
                     but I am also comfortable with Java, JavaScript, Haskell, SQL HTML and CSS, as well as a little bit of Go, C++, C# and C. I first gained
                     interest in programming around the age of 14, where I learned Visual Basic while
                     studying towards a National 5 in Computer Science, and haven't stopped wanting to learn 
