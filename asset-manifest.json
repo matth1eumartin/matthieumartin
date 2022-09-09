@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/matthieumartin/static/css/main.1fa024ee.chunk.css",
-    "main.js": "/matthieumartin/static/js/main.f536073d.chunk.js",
-    "main.js.map": "/matthieumartin/static/js/main.f536073d.chunk.js.map",
+    "main.css": "/matthieumartin/static/css/main.0a716663.chunk.css",
+    "main.js": "/matthieumartin/static/js/main.0e7c8471.chunk.js",
+    "main.js.map": "/matthieumartin/static/js/main.0e7c8471.chunk.js.map",
     "runtime-main.js": "/matthieumartin/static/js/runtime-main.b2f98980.js",
     "runtime-main.js.map": "/matthieumartin/static/js/runtime-main.b2f98980.js.map",
     "static/js/2.08fe829b.chunk.js": "/matthieumartin/static/js/2.08fe829b.chunk.js",
     "static/js/2.08fe829b.chunk.js.map": "/matthieumartin/static/js/2.08fe829b.chunk.js.map",
     "index.html": "/matthieumartin/index.html",
-    "static/css/main.1fa024ee.chunk.css.map": "/matthieumartin/static/css/main.1fa024ee.chunk.css.map",
+    "static/css/main.0a716663.chunk.css.map": "/matthieumartin/static/css/main.0a716663.chunk.css.map",
     "static/js/2.08fe829b.chunk.js.LICENSE.txt": "/matthieumartin/static/js/2.08fe829b.chunk.js.LICENSE.txt",
     "static/media/aboutme.df329fc2.png": "/matthieumartin/static/media/aboutme.df329fc2.png",
     "static/media/achievements.a1a9b23d.png": "/matthieumartin/static/media/achievements.a1a9b23d.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2f98980.js",
     "static/js/2.08fe829b.chunk.js",
-    "static/css/main.1fa024ee.chunk.css",
-    "static/js/main.f536073d.chunk.js"
+    "static/css/main.0a716663.chunk.css",
+    "static/js/main.0e7c8471.chunk.js"
   ]
 }
