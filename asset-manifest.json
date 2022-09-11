@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/matthieumartin/static/css/main.0a716663.chunk.css",
-    "main.js": "/matthieumartin/static/js/main.0e7c8471.chunk.js",
-    "main.js.map": "/matthieumartin/static/js/main.0e7c8471.chunk.js.map",
+    "main.css": "/matthieumartin/static/css/main.0b1465cf.chunk.css",
+    "main.js": "/matthieumartin/static/js/main.fa3ec919.chunk.js",
+    "main.js.map": "/matthieumartin/static/js/main.fa3ec919.chunk.js.map",
     "runtime-main.js": "/matthieumartin/static/js/runtime-main.b2f98980.js",
     "runtime-main.js.map": "/matthieumartin/static/js/runtime-main.b2f98980.js.map",
     "static/js/2.08fe829b.chunk.js": "/matthieumartin/static/js/2.08fe829b.chunk.js",
     "static/js/2.08fe829b.chunk.js.map": "/matthieumartin/static/js/2.08fe829b.chunk.js.map",
     "index.html": "/matthieumartin/index.html",
-    "static/css/main.0a716663.chunk.css.map": "/matthieumartin/static/css/main.0a716663.chunk.css.map",
+    "static/css/main.0b1465cf.chunk.css.map": "/matthieumartin/static/css/main.0b1465cf.chunk.css.map",
     "static/js/2.08fe829b.chunk.js.LICENSE.txt": "/matthieumartin/static/js/2.08fe829b.chunk.js.LICENSE.txt",
     "static/media/aboutme.df329fc2.png": "/matthieumartin/static/media/aboutme.df329fc2.png",
     "static/media/achievements.a1a9b23d.png": "/matthieumartin/static/media/achievements.a1a9b23d.png",
     "static/media/arsenal.55fbdf43.png": "/matthieumartin/static/media/arsenal.55fbdf43.png",
+    "static/media/education.17cb8937.png": "/matthieumartin/static/media/education.17cb8937.png",
     "static/media/gmailMouseOver.5f30c93b.png": "/matthieumartin/static/media/gmailMouseOver.5f30c93b.png",
     "static/media/manutd.b40e6574.png": "/matthieumartin/static/media/manutd.b40e6574.png",
     "static/media/me.77ae4a54.png": "/matthieumartin/static/media/me.77ae4a54.png",
     "static/media/portfolio.55bcc7bd.png": "/matthieumartin/static/media/portfolio.55bcc7bd.png",
     "static/media/waiterwork.dde3cb65.png": "/matthieumartin/static/media/waiterwork.dde3cb65.png",
-    "static/media/workexperience.184e9b63.png": "/matthieumartin/static/media/workexperience.184e9b63.png"
+    "static/media/workexperience.184e9b63.png": "/matthieumartin/static/media/workexperience.184e9b63.png",
+    "static/media/workingonit.15537fca.png": "/matthieumartin/static/media/workingonit.15537fca.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b2f98980.js",
     "static/js/2.08fe829b.chunk.js",
-    "static/css/main.0a716663.chunk.css",
-    "static/js/main.0e7c8471.chunk.js"
+    "static/css/main.0b1465cf.chunk.css",
+    "static/js/main.fa3ec919.chunk.js"
   ]
 }
