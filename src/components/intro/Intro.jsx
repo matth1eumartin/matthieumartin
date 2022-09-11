@@ -24,7 +24,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        I'm currently in my second year at the University of Edinburgh on the 5 year integrated masters in Informatics course (mInf).
+                        I'm currently in my second year at the University of Edinburgh on the 5 year integrated Masters of Informatics course (mInf).
                     </p>            
                     <div className="links">
                     <a href = "https://github.com/matth1eumartin">

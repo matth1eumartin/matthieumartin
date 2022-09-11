@@ -1,5 +1,6 @@
 import arsenal from './img/arsenal.png'
 import manutd from './img/manutd.png'
+import workingonit from './img/workingonit.png'
 
 export const pathfinding = [
     {id:1, 
@@ -8,7 +9,7 @@ export const pathfinding = [
     },
 
     {id:2,
-    img: "https://user-images.githubusercontent.com/94123711/188642717-cc065d4a-340a-46e2-8556-9e25be155d57.gif",
+    img: "https://user-images.githubusercontent.com/94123711/189365987-f01689d5-0634-4c28-b8c8-79539b2d6fd0.gif",
     link: "https://github.com/matth1eumartin/Pathfinding-Visualisation"
     }
 ]
@@ -38,5 +39,12 @@ export const eloanalysis = [
     {id:2,
     img:manutd,
     link:"https://github.com/matth1eumartin/PremierLeagueElos"
+    }
+]
+
+export const spotifyrecommendations = [
+    {id:1,
+    img:workingonit,
+    link:""
     }
 ]

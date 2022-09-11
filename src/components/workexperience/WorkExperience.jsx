@@ -1,6 +1,7 @@
 import "./workexperience.css"
 import workexperience from "../../img/workexperience.png"
 import waiterwork from "../../img/waiterwork.png"
+import education from "../../img/education.png"
 
 const WorkExperience = () => {
     return (
@@ -28,7 +29,7 @@ const WorkExperience = () => {
                 <h1 className="we-title">Work Experience</h1>
                 <h2 className="we-subheading">Volunteer Computer Science Tutor | 2020/21 Holy Rood High School</h2>
                 <p className="we-desc-1">
-                    <br></br>I provided support and taught small lessons to a group of 30 High School Students stuyding towards National 5 and Higher Computing Science.
+                    <br></br>I provided support and taught small lessons to a group of 12 High School Students stuyding towards National 5 and Higher Computing Science.
                     During this time, I gave lessons on basic data structures and data types, different types of Software Development Methodologies and a high level explanation
                     of how a computer functions. I also provided 1-on-1 support to students that were just beginning to learn how to program in Python, SQL, HTML, CSS and JavaScript.
                 </p>

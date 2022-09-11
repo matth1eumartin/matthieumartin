@@ -1,24 +1,15 @@
 .p {
     width: 500px;
-    height: 50vh;
+    height: 50%;
     margin: 50px 50px;
-    border: 2px solid purple;
-    border-radius: 10px 10px 0px 0px;
+    
 }
 
 .p-browser {
     height: 20px;
-    background-color: purple;
+    background-color: white;
     display: flex;
     align-items: center;
-}
-
-.p-circle {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    margin: 3px;
-    background-color: white;
 }
 
 .p-img {

@@ -1,5 +1,4 @@
 .we {
-    height: 120vh;
     display: flex;
     align-items: center;
 }
@@ -11,7 +10,7 @@
 
 .we-left {
     flex:1;
-    padding:20vh;
+    padding: 10%;
 }
 
 .we-right {
@@ -24,6 +23,7 @@
     height:100%;
     border-radius: 30;
 }
+
 
 .we-img {
     width: 100%;
