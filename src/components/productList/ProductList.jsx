@@ -2,12 +2,13 @@ import "./productList.css";
 import Product from "../product/Product";
 import {eloanalysis, haskellart, pathfinding, selfdrivingcar, spotifyrecommendations} from "../../data";
 import portfolio from "../../img/portfolio.png"
+import HomeButton from "../homebutton/HomeButton";
 
 const ProductList = () => {
     return (
         <div className="pl" id="projects">
             <img src={portfolio} alt="stickman coding on a laptop by dall-e 2" width="100" height="100"></img>
-            <h1 className="pl-title">Projects</h1>
+            <h1 className="pl-title">Projects <HomeButton></HomeButton></h1>
                 <div className = "pl-texts" id="pathfinding-vis">
                     <h2 className="pl-subtitle">Python Pathfinding Algorithm Visualisation</h2>
                     <p className="pl-desc">

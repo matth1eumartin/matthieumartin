@@ -1,5 +1,6 @@
 import "./about.css"
 import aboutme from "../../img/aboutme.png"
+import HomeButton from "../homebutton/HomeButton";
 
 const About = () => {
     return (
@@ -14,7 +15,7 @@ const About = () => {
                 </div>
             </div>
             <div className="a-right">
-                <h1 className="a-title">About Me</h1>
+                <h1 className="a-title">About Me <HomeButton></HomeButton></h1>
                 <p className="a-desc-1">
                     <br></br>I'm most used to Python, 
                     but I am also comfortable with Java, JavaScript, Haskell, SQL HTML and CSS, as well as a little bit of C# (through Unity game development), Golang, C++ and C. I first gained

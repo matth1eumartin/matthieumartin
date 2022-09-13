@@ -1,10 +1,11 @@
 import React from 'react'
 import './education.css'
 import education from '../../img/education.png'
+import HomeButtton from '../homebutton/HomeButton'
 
 const Education = () => {
   return (
-    <div className='ed' id="education">
+    <div className='ed'>
         <div className="ed-left">
                 <div className="ed-card">
                     <img 
@@ -15,7 +16,7 @@ const Education = () => {
                 </div>
             </div>
             <div className="ed-right">
-                <h1 className="ed-title">Education</h1>
+                <h1 className="ed-title" id="education">Education <HomeButtton></HomeButtton></h1>
                 <br></br>
                 <h2 className='ed-subtitle'>The University of Edinburgh, Master of Informatics (mInf) | 2021 - 2026</h2>
                 <div className="ed-desc-1">

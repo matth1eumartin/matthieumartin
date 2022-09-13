@@ -1,10 +1,11 @@
 import "./workexperience.css"
 import workexperience from "../../img/workexperience.png"
 import waiterwork from "../../img/waiterwork.png"
+import HomeButton from "../homebutton/HomeButton";
 
 const WorkExperience = () => {
     return (
-        <div className="we" id="workexperience">
+        <div className="we">
             <div className="we-left">
                 <div className="we-card">
                     <img 
@@ -25,7 +26,7 @@ const WorkExperience = () => {
                 </p>
             </div>
             <div className="we-right">
-                <h1 className="we-title">Work Experience</h1>
+                <h1 className="we-title" id="workexperience">Work Experience <HomeButton></HomeButton></h1>
                 <h2 className="we-subheading">Volunteer Computer Science Tutor | 2020/21 Holy Rood High School</h2>
                 <p className="we-desc-1">
                     <br></br>I provided support and taught small lessons to a group of 12 High School Students stuyding towards National 5 and Higher Computing Science.

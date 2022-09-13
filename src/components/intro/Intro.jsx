@@ -10,7 +10,7 @@ import Navbar from "../navbar/Navbar"
 
 const Intro = () => {
     return (
-        <div className="i">
+        <div className="i" id='home'>
             <div className="i-left">
                 <div className="i-left-wrapper">
                 <Navbar></Navbar> 
@@ -27,6 +27,8 @@ const Intro = () => {
                     </div>
                     <p className="i-desc">
                         I'm currently in my second year at the University of Edinburgh on the 5 year integrated Masters of Informatics course (mInf).
+                        You can scroll down or use the above navbar to read through this site, and each section has a 
+                        homebutton if you wish to return here and access any of the below links, which provide access to my Github, Linkedin and Email Address.
                     </p>            
                     <div className="links">
                     <a href = "https://github.com/matth1eumartin">

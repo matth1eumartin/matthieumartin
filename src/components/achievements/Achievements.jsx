@@ -1,11 +1,12 @@
-import "./achievements.css"
-import aboutme from "../../img/achievements.png"
+import "./achievements.css";
+import aboutme from "../../img/achievements.png";
+import HomeButton from "../homebutton/HomeButton";
 
 const Achievements = () => {
     return (
-        <div className="ac" id="achievements">
+        <div className="ac">
             <div className="ac-left">
-                <h1 className="ac-title">Achievements & Awards</h1>
+                <h1 className="ac-title" id="achievements">Achievements & Awards <HomeButton></HomeButton></h1>
                 <p className="ac-desc-1">
                     <br></br><ul><li>Caritas Award for Volunteering </li><ul className="awardAgency">Scottish Catholic Education Service | 2021</ul></ul>
                             <ul><li>5th Place in the INF1A Haskell Art Programming Competition </li><ul className="awardAgency">Edinburgh University | 2021</ul></ul>
