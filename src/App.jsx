@@ -3,6 +3,7 @@ import Intro from "./components/intro/Intro";
 import ProductList from "./components/productList/ProductList";
 import Achievements from "./components/achievements/Achievements";
 import WorkExperience from "./components/workexperience/WorkExperience";
+import Education from "./components/education/Education";
 
 const App = () => {
   return <div>
@@ -11,6 +12,7 @@ const App = () => {
       <ProductList></ProductList>
       <Achievements></Achievements>
       <WorkExperience></WorkExperience>
+      <Education></Education>
   </div>
 };
 
