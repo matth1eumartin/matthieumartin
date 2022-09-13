@@ -5,7 +5,7 @@ import portfolio from "../../img/portfolio.png"
 
 const ProductList = () => {
     return (
-        <div className="pl">
+        <div className="pl" id="projects">
             <img src={portfolio} alt="stickman coding on a laptop by dall-e 2" width="100" height="100"></img>
             <h1 className="pl-title">Projects</h1>
                 <div className = "pl-texts" id="pathfinding-vis">

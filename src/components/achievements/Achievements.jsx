@@ -3,7 +3,7 @@ import aboutme from "../../img/achievements.png"
 
 const Achievements = () => {
     return (
-        <div className="ac">
+        <div className="ac" id="achievements">
             <div className="ac-left">
                 <h1 className="ac-title">Achievements & Awards</h1>
                 <p className="ac-desc-1">

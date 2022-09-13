@@ -6,12 +6,14 @@ import linkedinNormalLogo from '../../img/linkedinNormal.png'
 import linkedinMouseOver from '../../img/linkedinMouseOver.png'
 import gmail from '../../img/gmail.png'
 import gmailMouseOver from '../../img/gmailMouseOver.png'
+import Navbar from "../navbar/Navbar"
 
 const Intro = () => {
     return (
         <div className="i">
             <div className="i-left">
                 <div className="i-left-wrapper">
+                <Navbar></Navbar> 
                     <h2 className="i-intro">hello, my name is</h2> 
                     <h1 className="i-name">Matthieu</h1>   
                     <div className="i-title">

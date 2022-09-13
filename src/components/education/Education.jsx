@@ -4,7 +4,7 @@ import education from '../../img/education.png'
 
 const Education = () => {
   return (
-    <div className='ed'>
+    <div className='ed' id="education">
         <div className="ed-left">
                 <div className="ed-card">
                     <img 

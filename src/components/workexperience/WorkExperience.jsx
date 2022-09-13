@@ -4,7 +4,7 @@ import waiterwork from "../../img/waiterwork.png"
 
 const WorkExperience = () => {
     return (
-        <div className="we">
+        <div className="we" id="workexperience">
             <div className="we-left">
                 <div className="we-card">
                     <img 
