@@ -21,7 +21,7 @@ const Achievements = () => {
                     <br></br>Certificates available on linkedin
                         <ul><li>Data Scientist: Machine Learning Specialist Career Path | 35 weeks</li>
                         <li>Learn Data Structures and Algorithms with Python | 40 hours</li>
-                        <ul>Foundations of Cloud Computing | 4 hours</ul>
+                        <li>Foundations of Cloud Computing | 4 hours</li>
                         <li>Learn Advanced Python 3 | 8 hours + 15 hours intermediate + 25 hours intro</li>
                         <li>Learn JavaScript | 20 hours</li>
                         <li>Software Engineering in Python I | 8 hours</li>

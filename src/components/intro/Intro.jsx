@@ -28,7 +28,7 @@ const Intro = () => {
                     <p className="i-desc">
                         I'm currently in my second year at the University of Edinburgh on the 5 year integrated Masters of Informatics course (mInf).
                         You can scroll down or use the above navbar to read through this site, and each section has a 
-                        homebutton if you wish to return here and access any of the below links, which provide access to my Github, Linkedin and Email Address.
+                        homebutton if you wish to return here and access any of the below buttons, which link to my Github, Linkedin and Email Address.
                     </p>            
                     <div className="links">
                     <a href = "https://github.com/matth1eumartin">

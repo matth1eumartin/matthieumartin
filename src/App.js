@@ -4,7 +4,6 @@ import ProductList from "./components/productList/ProductList";
 import Achievements from "./components/achievements/Achievements";
 import WorkExperience from "./components/workexperience/WorkExperience";
 import Education from "./components/education/Education";
-import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
   return <div>
