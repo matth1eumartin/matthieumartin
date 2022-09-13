@@ -1,8 +1,5 @@
 import React from 'react'
 import './navbar.css'
-import SlideNav from './slidenav';
-
-var nav = new SlideNav();
 
 const Navbar = () => {
   return (
