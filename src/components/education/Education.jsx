@@ -39,8 +39,7 @@ const Education = () => {
                 <h2 className='ed-subtitle'>Holy Rood RC Highschool | Class of 2021</h2>
                 <p className="ed-desc-2">
                 <br></br>
-                    I attended my local State School, ranked 259th out of the 340 schools in Scotland for academic achievement (according to the Times
-                    Scottish School Ranking). During my 6 years, I achieved:
+                    I attended my local State School. During my 6 years, I achieved:
                     <ul><li>8A's at National 5 in 2019</li>
                         <li>6A's and 1B at Higher in 2020 (two courses self studied during the pandemic)</li>
                         <li>2A's at Advanced Higher in 2021</li></ul>

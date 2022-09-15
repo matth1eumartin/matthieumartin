@@ -69,6 +69,15 @@ const ProductList = () => {
                         ))}
                 </div>
 
+                <div className="pl-texts" id="website">
+                    <h2 className="pl-subtitle-2">This website!</h2>
+                    <p className="pl-desc">
+                        As I mentioned earlier, I built this website from scratch using React.js. I followed a few guides at first, but eventually 
+                        felt comfortable enough to branch out and create this website myself. As I'm still learning, there are a few bugs that crop up,
+                        but I intend to keep working and try to smooth everything out as I learn new techniques I can add.
+                    </p>
+                </div>
+
                 <div className="pl-texts" id="working-on">
                     <h3 className="pl-subtitle-2">Currently Working on:</h3>
                     <h2>Spotify Song Recommendations</h2>
