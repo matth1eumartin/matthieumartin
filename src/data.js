@@ -42,7 +42,18 @@ export const eloanalysis = [
     }
 ]
 
-export const spotifyrecommendations = [
+export const statify = [
+    {id:1,
+    img:"https://user-images.githubusercontent.com/94123711/193327670-b5249ff5-38b4-4c75-8c20-ea56028959f2.png",
+    link:"https://github.com/matth1eumartin/statify/"
+    },
+    {id:2,
+    img:"https://user-images.githubusercontent.com/94123711/193328201-3f2057ae-6760-416e-9299-2390e09904af.png",
+    link:"https://github.com/matth1eumartin/statify/"
+    }
+]
+
+export const footballtrack = [
     {id:1,
     img:workingonit,
     link:""

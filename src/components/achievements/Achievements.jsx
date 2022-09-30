@@ -1,5 +1,6 @@
 import "./achievements.css";
-import aboutme from "../../img/achievements.png";
+import React from 'react';
+import aboutme from  "../../img/achievements.png";
 import HomeButton from "../homebutton/HomeButton";
 
 const Achievements = () => {
@@ -23,7 +24,7 @@ const Achievements = () => {
                         <li>Learn Data Structures and Algorithms with Python | 40 hours</li>
                         <li>Foundations of Cloud Computing | 4 hours</li>
                         <li>Learn Advanced Python 3 | 8 hours + 15 hours intermediate + 25 hours intro</li>
-                        <li>Learn JavaScript | 20 hours</li>
+                        <li>Learn Intermediate JavaScript | 10 hours + 20 hours intro</li>
                         <li>Software Engineering in Python I | 8 hours</li>
                         <li>Learn SQL | 8 hours</li>
                         <li>Learn the Basics of Blockchain with Python | 2 hours</li>

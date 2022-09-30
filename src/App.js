@@ -1,11 +1,12 @@
+import { React, useState, useEffect } from "react";
 import About from "./components/about/About";
-import Intro from "./components/intro/Intro";
-import ProductList from "./components/productList/ProductList";
+import Intro from "./components/intro/Intro"; 
 import Achievements from "./components/achievements/Achievements";
 import WorkExperience from "./components/workexperience/WorkExperience";
 import Education from "./components/education/Education";
 import LoadingScreen from "./components/loadingscreen/LoadingScreen";
-import { useState, useEffect } from "react";
+import ProductList from "./components/productList/ProductList";
+
 
 const App = () => {
 

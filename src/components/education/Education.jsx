@@ -1,7 +1,7 @@
-import React from 'react'
-import './education.css'
+import React from 'react';
+import './education.css';
+import HomeButtton from '../homebutton/HomeButton';
 import education from '../../img/education.png'
-import HomeButtton from '../homebutton/HomeButton'
 
 const Education = () => {
   return (
@@ -31,7 +31,7 @@ const Education = () => {
                         ultimately finishing the year with a 2:1 and being allowed to progress to Year 2.
                     </p>
                     <br></br><h3>Year 2 | 2022/23</h3>
-                    <p>This year I will undertake courses in Algorithms and Data Structures, Data Science, Discrete Mathematics & Probability,
+                    <p>This year I am undertaking courses in Algorithms and Data Structures, Data Science, Discrete Mathematics & Probability,
                         Computer Systems, Reasoning & Agents and Software Engineering & Professional Practice.
                     </p>
                     <br></br><br></br>
@@ -39,15 +39,16 @@ const Education = () => {
                 <h2 className='ed-subtitle'>Holy Rood RC Highschool | Class of 2021</h2>
                 <p className="ed-desc-2">
                 <br></br>
-                    I attended my local State School. During my 6 years, I achieved:
+                    During my 6 years at High School, I achieved:
                     <ul><li>8A's at National 5 in 2019</li>
                         <li>6A's and 1B at Higher in 2020 (two courses self studied during the pandemic)</li>
                         <li>2A's at Advanced Higher in 2021</li></ul>
                     <br></br>
                     This led me to being awarded the schools awards for academic achievement every year I was eligible. On top of this, during my time
                     at school I also attended the table tennis club, acted as a School Prefect and achieved the Caritas Award for Volunteering from the
-                    Scottish Catholic Education Service. Having built good teaching skills tutoring maths, I helped out the sole Computing Science teacher for a school of
-                    1100 students and helped tutor the National 5 and Higher Computer Science classes during my 6th year. Those classes went on to achieve one of the highest attainment records for Computer Science in the schools history.
+                    Scottish Catholic Education Service. Having built good teaching skills tutoring maths, I worked with the sole Computing Science teacher for a school of
+                    1100 students and helped tutor the National 5 and Higher Computer Science classes during my 6th year. Those classes went on to achieve one of the highest attainment records for 
+                    Computer Science in the schools history. After running a survey on the students that I taught, all 8 of them said they would recommend me as a tutor.
                 </p>
             </div>
     </div>

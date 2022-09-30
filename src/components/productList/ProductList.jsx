@@ -1,6 +1,6 @@
 import "./productList.css";
 import Product from "../product/Product";
-import {eloanalysis, haskellart, pathfinding, selfdrivingcar, spotifyrecommendations} from "../../data";
+import {eloanalysis, footballtrack, haskellart, pathfinding, selfdrivingcar, statify} from "../../data";
 import portfolio from "../../img/portfolio.png"
 import HomeButton from "../homebutton/HomeButton";
 
@@ -14,7 +14,7 @@ const ProductList = () => {
                     <p className="pl-desc">
                         I created a visualisation of both the A* and Dijkstra pathfinding algorithms
                         using pygame. In this project I developed my understanding of both of the algorithms, 
-                        as well as nodes, queues and pygame.
+                        as well as nodes, graphs, queues and pygame.
                     </p>
                 </div>
                 <div className="pl-list">
@@ -31,6 +31,7 @@ const ProductList = () => {
                         studying towards Codecademy certifications to good use, as I generated a custom reward function for the AI.
                         (it also taught me a lot about patience while debugging)
                     </p>
+                    <h8>I'm working on getting a gif here, but it will take a while as it significantly increases the loading time of the website. I promise it drives itself ;)</h8>
                 </div>
                 <div className="pl-list">
                         {selfdrivingcar.map((item)=> (
@@ -69,6 +70,21 @@ const ProductList = () => {
                         ))}
                 </div>
 
+                <div className="pl-texts" id="haskell-art">
+                    <h2 className="pl-subtitle-2">Statify</h2>
+                    <p className="pl-desc">
+                        This is a web application I built using React.js and Axios. It uses the Spotify API to Authenticate users using an Authorization code with
+                        PKCE, before generating a list of the top 10 songs that the user has listened to the most over the past month. While creating this application, I 
+                        learned a lot about React Hooks and Axios, while also consolidating the knowledge about API requests that I had gained 
+                        while studying toward the Intermediate JavaScript qualification on Codecademy.
+                    </p>
+                </div>
+                <div className="pl-list">
+                        {statify.map((item)=> (
+                            <Product key = {item.id} img={item.img} link={item.link}/>
+                        ))}
+                </div>
+
                 <div className="pl-texts" id="website">
                     <h2 className="pl-subtitle-2">This website!</h2>
                     <p className="pl-desc">
@@ -80,15 +96,15 @@ const ProductList = () => {
 
                 <div className="pl-texts" id="working-on">
                     <h3 className="pl-subtitle-2">Currently Working on:</h3>
-                    <h2>Spotify Song Recommendations</h2>
+                    <h2>Football Tracker</h2>
                     <p className="pl-desc">
-                          This project is helping me improve my ability to work with API's. I am using the Spotify Web API
-                          with Python to build a program that fetches a user's Top 10 songs from the last 6 months and will
-                          recommend songs based on those 10 songs.
+                          I'm leading a team of 3 to build a Computer Vision model that can identify a football in the frame of a video downloaded
+                          from a dataset of Professional Bundesliga matches on kaggle.com. This is helping me gain confidence with OpenCV and Tensorflow,
+                          as well as giving me valuable experience and skills on how to lead a team and work effectively in a technical environment.
                     </p>
                 </div>
                 <div className="pl-list">
-                        {spotifyrecommendations.map((item)=> (
+                        {footballtrack.map((item)=> (
                             <Product key = {item.id} img={item.img}/>
                         ))}
                 </div>
