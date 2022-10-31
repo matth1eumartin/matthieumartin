@@ -33,7 +33,7 @@ const WorkExperience = () => {
                     During this time, I gave lessons on basic data structures and data types, different types of Software Development Methodologies and a high level explanation
                     of how a computer functions. I also provided 1-on-1 support to students that were just beginning to learn how to program in Python, SQL, HTML, CSS and JavaScript.
                 </p>
-                <h2 className="we-subheading">Database Administrator | Butterworths Lenses | 2020</h2>
+                <h2 className="we-subheading">Database Administration Intern | Butterworths Lenses | 2020</h2>
                 <p className="we-desc-2">
                     <br></br>I migrated thousands of customer records to a new database software for a local Opticians. They originally planned
                     to copy paste thousands of customer records, which would have taken months, but I wrote a script using the python

@@ -94,20 +94,6 @@ const ProductList = () => {
                     </p>
                 </div>
 
-                <div className="pl-texts" id="working-on">
-                    <h3 className="pl-subtitle-2">Currently Working on:</h3>
-                    <h2>Football Tracker</h2>
-                    <p className="pl-desc">
-                          I'm leading a team of 3 to build a Computer Vision model that can identify a football in the frame of a video downloaded
-                          from a dataset of Professional Bundesliga matches on kaggle.com. This is helping me gain confidence with OpenCV and Tensorflow,
-                          as well as giving me valuable experience and skills on how to lead a team and work effectively in a technical environment.
-                    </p>
-                </div>
-                <div className="pl-list">
-                        {footballtrack.map((item)=> (
-                            <Product key = {item.id} img={item.img}/>
-                        ))}
-                </div>
                                   
         </div>
     )

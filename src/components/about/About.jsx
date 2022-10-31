@@ -18,7 +18,7 @@ const About = () => {
                 <h1 className="a-title">About Me <HomeButton></HomeButton></h1>
                 <p className="a-desc-1">
                     <br></br>I'm most used to Python, 
-                    but I am also comfortable with Java, JavaScript, Haskell, SQL HTML and CSS, as well as a little bit of C# (through Unity game development), Golang, C++ and C. I first gained
+                    but I am also comfortable with Java, JavaScript, Haskell, SQL, HTML and CSS, as well as a little bit of C# (through Unity game development), Go, Assembly, C, LaTeX. I first gained
                     interest in programming around the age of 14, where I learned Visual Basic while
                     studying towards a National 5 qualification in Computer Science, and haven't stopped wanting to learn 
                     new programming skills since. I buy strongly into the idea self-study is crucial for a programmer, so I decided to branch out and create this site myself from
