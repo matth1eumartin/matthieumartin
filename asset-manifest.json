@@ -1,32 +1,13 @@
 {
   "files": {
-    "main.css": "/matthieumartin/static/css/main.563c2c35.chunk.css",
-    "main.js": "/matthieumartin/static/js/main.433025f3.chunk.js",
-    "main.js.map": "/matthieumartin/static/js/main.433025f3.chunk.js.map",
-    "runtime-main.js": "/matthieumartin/static/js/runtime-main.b2f98980.js",
-    "runtime-main.js.map": "/matthieumartin/static/js/runtime-main.b2f98980.js.map",
-    "static/js/2.9d126d3f.chunk.js": "/matthieumartin/static/js/2.9d126d3f.chunk.js",
-    "static/js/2.9d126d3f.chunk.js.map": "/matthieumartin/static/js/2.9d126d3f.chunk.js.map",
-    "index.html": "/matthieumartin/index.html",
-    "static/css/main.563c2c35.chunk.css.map": "/matthieumartin/static/css/main.563c2c35.chunk.css.map",
-    "static/js/2.9d126d3f.chunk.js.LICENSE.txt": "/matthieumartin/static/js/2.9d126d3f.chunk.js.LICENSE.txt",
-    "static/media/aboutme.df329fc2.png": "/matthieumartin/static/media/aboutme.df329fc2.png",
-    "static/media/achievements.a1a9b23d.png": "/matthieumartin/static/media/achievements.a1a9b23d.png",
-    "static/media/arsenal.55fbdf43.png": "/matthieumartin/static/media/arsenal.55fbdf43.png",
-    "static/media/education.17cb8937.png": "/matthieumartin/static/media/education.17cb8937.png",
-    "static/media/gmailMouseOver.5f30c93b.png": "/matthieumartin/static/media/gmailMouseOver.5f30c93b.png",
-    "static/media/loading.5d79bec8.gif": "/matthieumartin/static/media/loading.5d79bec8.gif",
-    "static/media/manutd.b40e6574.png": "/matthieumartin/static/media/manutd.b40e6574.png",
-    "static/media/me.77ae4a54.png": "/matthieumartin/static/media/me.77ae4a54.png",
-    "static/media/portfolio.55bcc7bd.png": "/matthieumartin/static/media/portfolio.55bcc7bd.png",
-    "static/media/waiterwork.dde3cb65.png": "/matthieumartin/static/media/waiterwork.dde3cb65.png",
-    "static/media/workexperience.184e9b63.png": "/matthieumartin/static/media/workexperience.184e9b63.png",
-    "static/media/workingonit.15537fca.png": "/matthieumartin/static/media/workingonit.15537fca.png"
+    "main.css": "/static/css/main.3fc4a536.css",
+    "main.js": "/static/js/main.e112dcac.js",
+    "index.html": "/index.html",
+    "main.3fc4a536.css.map": "/static/css/main.3fc4a536.css.map",
+    "main.e112dcac.js.map": "/static/js/main.e112dcac.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2f98980.js",
-    "static/js/2.9d126d3f.chunk.js",
-    "static/css/main.563c2c35.chunk.css",
-    "static/js/main.433025f3.chunk.js"
+    "static/css/main.3fc4a536.css",
+    "static/js/main.e112dcac.js"
   ]
 }
