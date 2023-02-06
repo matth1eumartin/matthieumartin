@@ -1,36 +1,28 @@
-import { React, useState, useEffect } from "react";
-import About from "./components/about/About";
-import Intro from "./components/intro/Intro"; 
-import Achievements from "./components/achievements/Achievements";
-import WorkExperience from "./components/workexperience/WorkExperience";
-import Education from "./components/education/Education";
-import LoadingScreen from "./components/loadingscreen/LoadingScreen";
-import ProductList from "./components/productList/ProductList";
+import Greeting from './components/MainPage/Greeting';
+import NavBar from './components/NavBar/NavBar';
+import AboutMe from './components/AboutMe/AboutMe';
+import ProjectList from './components/Projects/ProjectList';
 
-
-const App = () => {
-
-  const [loading, setLoading] = useState(true)
-
-  useEffect(() => {
-    setTimeout(() => setLoading(false), 6000)
-  }, [])
-
-
-  return <div>
-    {loading === false ?  (
-      <div>
-      <Intro></Intro>
-      <About></About>
-      <ProductList></ProductList>
-      <Achievements></Achievements>
-      <WorkExperience></WorkExperience>
-      <Education></Education>
+function App() {
+  return (
+    <div className="">
+      <div className=''>
+        <NavBar />
       </div>
-    ) : (
-      <LoadingScreen />
-    )}
-  </div>
-};
+      <div id="home" className='items-center text-center py-[350px] h-[100vh]'>
+        <Greeting />
+      </div>
+      <p id="about"></p>
+      <div id="about">
+        <AboutMe />
+      </div>
+      <p id="projects"></p>
+      <div>
+        <ProjectList />
+      </div>
+      
+    </div>
+  );
+}
 
 export default App;
